@@ -25,7 +25,7 @@ This project was completed exclusively in Jupyter Notebooks and is intended to b
 
 ## 1.2 NumPy Lenia
 
-The code for Lenia using NumPy is in the notebook "`Numpy Lenia.ipynb`". It has the required packages:
+The code for Lenia using NumPy is in the notebook `Numpy Lenia.ipynb`. It has the required packages:
 
 | Package | Nickname in project | Description |
 | --- | --- | --- |
@@ -52,7 +52,7 @@ The parameter map is computed using the previously mentioned functions.
 
 ## 1.3 Numba Lenia
 
-The code for Lenia using Numba compiling is in the notebook "`Numba Lenia.ipynb`". It has the required packages:
+The code for Lenia using Numba compiling is in the notebook `Numba Lenia.ipynb`. It has the required packages:
 
 | Package | Nickname in project | Description |
 | --- | --- | --- |
